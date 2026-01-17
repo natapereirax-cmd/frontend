@@ -6,8 +6,13 @@ In the application, the user can choose which type of account he is going to sig
 # Features
 
 Login Screen
+
 Signup Screen
+
 Switch screen interaction with the Sign Up and Back buttons
+
 Dark/light mode that stays in the selected mode even when you change the window
+
 Text input restrictions for first and last name, username, and ID
+
 Password letters are hidden and displayed as black dots on the screen
